@@ -1,16 +1,25 @@
-### Hi there 👋
+## 🔥 About Me
 
-<!--
-**d4ne/d4ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⭐ I’m currently improving my **C++** Skills
 
-Here are some ideas to get you started:
+- 📫 How to contact me **danuhx@proton.me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Languages and Tools:
+
+<p align="left">
+    <a href="https://ubuntu.com//" target="_blank"> <img src="https://img.icons8.com/color/48/typescript.png"/> 
+    <a href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/vue-js.png"/>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/flutter.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/firebase.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/android-studio--v3.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/xamarin.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-php-coding-and-development-flat-flat-juicy-fish.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/javascript--v1.png"/> </a>
+      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/python--v1.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/visual-studio.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/html-5--v1.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/linux--v1.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/windows-11.png"/> </a>
+      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/sap.png"/> </a>
+</p>
